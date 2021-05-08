@@ -3,7 +3,7 @@ This coursework is the culmination of working with C++ and required us to create
 
 Additionally, I worked with many unit tests to create this software, solidifying the code I produce and ensuring it is free of bugs and edge cases/boundary values are properly handled.
 
-The task and framework which were provided to us are available [here](https://github.com/jramseygreen/bethyw/assignment).
+The task and framework which were provided to us are available [here](https://github.com/jramseygreen/bethyw/tree/main/assignment).
 
 ###### __Name:__ Joshua Green
 ###### __Student Number:__ 956213
