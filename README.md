@@ -1,6 +1,8 @@
 # Advanced Object Oriented Programming Coursework 1
 This coursework is the culmination of working with C++ and required us to create a comprehensive tool for data analysis. I feel as though this coursework in particular familiarised me with proper memory management and I was able to utilise Agile workflows to complete this alongside other work to a high standard, achieving 88%.
 
+Additionally, I worked with many unit tests to create this software, solidifying the code I produce and ensuring it is free of bugs and edge cases/boundary values are properly handled.
+
 The task and framework which were provided to us are available [here](https://github.com/jramseygreen/bethyw/assignment).
 
 ###### __Name:__ Joshua Green
